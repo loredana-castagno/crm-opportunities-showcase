@@ -1,4 +1,4 @@
-# CRM — Opportunities module (code showcase)
+# CRM - Opportunities module (code showcase)
 
 Extracto **curado y de solo lectura** del módulo de **Opportunities** (pipeline
 comercial) de un CRM que construí. Es el slice más "backend": modela un pipeline de
